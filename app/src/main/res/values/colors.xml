@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#283593</color>
+    <color name="colorPrimaryDark">#3F51B5</color>
+    <color name="bluelighter">#E8EAF6</color>
+    <color name="greenlighter">#F1F8E9</color>
+    <color name="yellowlighter">#FFFDE7</color>
+    <color name="redlighter">#FFEBEE</color>
+    <color name="bluelight">#C5CAE9</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="green">#28B463</color>
+    <color name="light_green">#ABEBE6</color>
+    <color name="white">#FDFEFE</color>
+    <color name="black">#000000</color>
+</resources>
